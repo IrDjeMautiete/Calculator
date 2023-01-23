@@ -24,6 +24,7 @@ namespace Calculator
             // FOUS TON CODE ICI !!!
 
             Tools.AskInteger("Outah",0,9);
+            Tools.AskInteger("Wazza", 0, 9);
 
 
 
