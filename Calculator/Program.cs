@@ -23,7 +23,9 @@ namespace Calculator
 
             // FOUS TON CODE ICI !!!
 
-            Tools.AskInteger("",0,9);
+            Tools.AskInteger("Outah",0,9);
+
+
 
             Console.WriteLine("\nDurée d’exécution: " + stopwatch.Elapsed.TotalSeconds);
         }
